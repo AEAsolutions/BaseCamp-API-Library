@@ -1,0 +1,53 @@
+* {
+	padding: 0px;
+	font-family: 'Droid Sans', sans-serif;
+}
+
+h1 {
+	margin-top: 0px;
+}
+
+ol, ul {
+	list-style-position: inside;
+}
+
+header {
+	background: #D9EDF7;
+	padding: 20px;
+}
+
+.content {
+	background: #F2DEDE;
+}
+
+.right-column {
+	margin-left: 200px;
+	background: #DFF0D8;
+	padding: 10px;
+}
+
+img.right-aligned-image {
+	float: right;
+	margin-left: 5px;
+}
+
+footer {
+	background: #252525;
+	color: #fff;
+	padding: 20px;
+}
+
+.yellow-div {
+	width: 100%;
+	overflow: auto;
+	background: #FCF8E3;
+	padding: 10px;
+	margin-left: -10px;
+}
+
+.yellow-div div {
+	float: left;
+	background: #000;
+	height: 20px;
+	width: 20px;
+}
