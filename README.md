@@ -9,3 +9,5 @@ To install the app, please follow the instruction:
 4. Run the script with the following command from the command line:
 
 	php -f /{path-to-application}/public/index.php {project_id}
+
+The html task is in public/html_test/
