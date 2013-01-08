@@ -1,19 +1,19 @@
 <?php
 	$config = array(
 		// your base camp login
-		'login'		=> "bcapitest@websitemovers.com",
+		'login'		=> "YOUR LOGIN",
 		// your basecamp password
-		'pass'		=> "S?s+d2br",
+		'pass'		=> "PASSWORD",
 		// base url to send the request to
-		'url'		=> "https://websitemovers.basecamphq.com",
+		'url'		=> "YOUR BC URL",
 		// enable requests logging (will be written to php error log)
 		'logging'	=> true,
 		// database settings
 		'database'	=> array(
 			'host'		=> 'localhost',
-			'user'		=> 'root',
-			'pass'		=> 'q1w2e3r4t5',
-			'database'	=> 'test_task'
+			'user'		=> 'DB USER',
+			'pass'		=> 'DB PASSWORD',
+			'database'	=> 'DB NAME'
 		)
 	);
 ?>
